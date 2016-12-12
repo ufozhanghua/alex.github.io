@@ -33,7 +33,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
+title : alex 博客
 tagline: A fresh looking and responsive theme for Jekyll
 assets: /assets
 baseurl: 
@@ -111,8 +111,9 @@ toc:
 
 #### Links
 links:
-  码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+  轩陌: http://www.xuanmomo.com/
+  吴佳: http://wujiabk.com/
+  豆豆：https://ln-bates.github.io/
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.
