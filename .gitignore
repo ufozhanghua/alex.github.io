@@ -1,19 +1,12 @@
-# -*- mode: gitignore; -*-
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-*.elc
-auto-save-list
-tramp
-.\#*
+_site/*
+_theme_packages/*
 
-_site/
-.sass-cache/
-*.swp
-pkg/
-test/
-_deploy/*
-Rakefile
-.jekyll-metadata
-/.idea/
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+
+*.lock
