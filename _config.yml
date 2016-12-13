@@ -114,8 +114,8 @@ links:
   alex: http://www.njalex.com
 
 #### Comment
-duoshuo_shortname: alex   ## e.g. wuchong   your duoshuo short name.
-disqus_shortname: alex    ## e.g. wuchong   your disqus short name.
+duoshuo_shortname: e.g. alex   ## e.g. wuchong   your duoshuo short name.
+disqus_shortname: e.g. alex    ## e.g. wuchong   your disqus short name.
 
 #### Share button
 jiathis:
